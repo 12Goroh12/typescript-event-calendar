@@ -12,6 +12,9 @@
 /build
 
 # misc
+.screen1.png
+.screen2.png
+.screen3.png
 .DS_Store
 .env.local
 .env.development.local
